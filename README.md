@@ -49,3 +49,7 @@ Increased scrutiny for loan applications for the top 4 highest defaulting loan p
 
 Stricter review of loan applications for borrowers employed for less than 2 years.
 
+# Project Source
+
+This project was completed using the Loan Default Risk Analysis case study provided by Analyst Builder. Analyst Builder Project
+
