@@ -42,7 +42,10 @@ Borrowers with less than 2 years employment show significantly higher default ri
 
 # Business Recommendations
 Limiting loans to borrowers with a minimum credit score of 700.
+
 Implementing a more critical DTI threshold of 50% or lower. If a more aggressive approach is desired then limit loans to borrowers with 25% DTI ratio in order to achieve bank's stated goal of 12%
+
 Increased scrutiny for loan applications for the top 4 highest defaulting loan purposes (Wedding, Home Improvement, Auto Loans, Business Loans)
+
 Stricter review of loan applications for borrowers employed for less than 2 years.
 
