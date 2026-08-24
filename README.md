@@ -12,7 +12,7 @@ The VP of Risk requested to analysis of the existing loan book and borrower data
 
 # Datasets
 borrower_profiles.csv
-Contains: Borrower ID, Credit Score, Annual Income, Employment Status, Years Employed, Debt-to-Income Ratio (DTI), Loan Applications
+Contains: Borrower ID, Credit Score, Annual Income, Employment Status, Years Employed, Debt-to-Income Ratio (DTI),
 
 loan_applications.csv
 Contains: Borrower ID, Loan Amount, Loan Purpose, Interest Rate, Loan Term, Default Status
