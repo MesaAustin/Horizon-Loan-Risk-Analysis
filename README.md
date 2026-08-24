@@ -51,5 +51,6 @@ Stricter review of loan applications for borrowers employed for less than 2 year
 
 # Project Source
 
-This project was completed using the Loan Default Risk Analysis case study provided by Analyst Builder. Analyst Builder Project
+This project was completed using the Loan Default Risk Analysis case study provided by Analyst Builder. [Analyst Builder Project]([url](https://www.analystbuilder.com/projects/loan-default-risk-analysis-Vjfdl?tab=overview)
+)
 
