@@ -18,9 +18,9 @@ loan_applications.csv
 Contains: Borrower ID, Loan Amount, Loan Purpose, Interest Rate, Loan Term, Default Status
 
 # Tools & Skills
-MS Excel- Exploratory Data Analysis
-SQL: SSMS- Business Analysis, Data Cleaning
-PowerBI- Business Analysis, Data Visualization
+MS Excel- Exploratory Data Analysis  |
+SQL: SSMS- Business Analysis, Data Cleaning  |
+PowerBI- Business Analysis, Data Visualization  |
 
 # Workflow
 a) Create staging tables, load and validate both datasets (checking data types, null checks, summary stats).
