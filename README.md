@@ -36,8 +36,8 @@ e) Generate visualizations and summarize risk recommendations.
 # Key Findings
 Overall default rate is approximately 24.28%.
 Highest default rate occurs in the 520–599 credit score bucket, defaulting at 49.14%.
-Default risk increases as DTI rises, spiking significantly from a DTI rate of 51& and above.
-Some loan purposes ( Wedding, Home Improvement) have higher default rates.
+Default risk increases as DTI rises, spiking significantly from a DTI rate of 51 and above.
+Some loan purposes (Wedding, Home Improvement) have higher default rates.
 Borrowers with less than 2 years employment show significantly higher default risk.
 
 # Business Recommendations
