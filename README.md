@@ -24,9 +24,13 @@ PowerBI- Business Analysis, Data Visualization  |
 
 # Workflow
 a) Create staging tables, load and validate both datasets (checking data types, null checks, summary stats).
+
 b) Joined both borrower_profiles and loan_application tables on borrower_id.
+
 c) Segment default rates by: Credit score buckets, DTI ranges, Loan purpose, Employment status, Years employed [ under 2yrs vs 2 or more yrs ]
+
 d) Run correlation analysis for numeric features against default outcome.
+
 e) Generate visualizations and summarize risk recommendations.
 
 # Key Findings
